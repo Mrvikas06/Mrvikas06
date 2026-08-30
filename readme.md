@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2EA44F&background=0D1117&center=true&vCenter=true&width=1200&height=45&lines=root%40vikas%3A~%23+building+full-stack+products+with+AI+baked+in;root%40vikas%3A~%23+ship+fast+%C2%B7+learn+faster+%C2%B7+break+nothing+important;root%40vikas%3A~%23+200%2B+DSA+%C2%B7+Hack2Skill+%C2%B7+Commudle+%C2%B7+Hawksvale+UK" alt="Typing SVG" />
 
-<table width="100%"><tr>
+<table width="125%"><tr>
 <td width="25%" align="center"><a href="https://github.com/Mrvikas06"><img width="100%" src="https://img.shields.io/badge/GITHUB-2EA44F?style=flat-square&logo=github&logoColor=ffffff"/></a></td>
 <td width="25%" align="center"><a href="https://linkedin.com/in/vikas2106"><img width="100%" src="https://img.shields.io/badge/LINKEDIN-2EA44F?style=flat-square&logo=linkedin&logoColor=ffffff"/></a></td>
 <td width="25%" align="center"><a href="#"><img width="100%" src="https://img.shields.io/badge/PORTFOLIO-2EA44F?style=flat-square&logo=vercel&logoColor=ffffff"/></a></td>
