@@ -112,6 +112,8 @@ End-to-end product builder — frontend, backend, databases, deployment.
 | Cloud | AWS · Google Cloud |
 | DevOps | Git, GitHub Actions-ready deploys |
 
+**Currently exploring:** distributed backends · agentic AI orchestration · 3D web UI
+
 </td>
 </tr>
 </table>
@@ -195,27 +197,32 @@ End-to-end product builder — frontend, backend, databases, deployment.
 
 ### `$ git log --stats --graph`
 
-<table width="100%"><tr>
-<td width="33%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mrvikas06&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA44F&icon_color=2EA44F&text_color=c9d1d9"/></td>
-<td width="33%"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrvikas06&theme=default&hide_border=true&background=0D1117&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F"/></td>
-<td width="34%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvikas06&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=2EA44F&text_color=c9d1d9"/></td>
-</tr></table>
+<table width="100%">
+<tr>
+<td width="34%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mrvikas06&show_icons=true&theme=radical&hide_border=true&count_private=true"/></td>
+<td width="33%" valign="top"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrvikas06&theme=radical&hide_border=true"/></td>
+<td width="33%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvikas06&layout=compact&theme=radical&hide_border=true"/></td>
+</tr>
+</table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrvikas06&theme=github-compact&hide_border=true&bg_color=0D1117&color=2EA44F&line=2EA44F&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrvikas06&theme=react-dark&hide_border=true" />
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 **🏆 Trophy Case**
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mrvikas06&theme=algolia&no-frame=true&row=2&column=4&margin-w=6&margin-h=6&bg=0D1117"/>
+<br><br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mrvikas06&theme=radical&no-frame=true&row=2&column=4&margin-w=6&margin-h=6"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 **🐍 Contribution Snake**
+<br><br>
 <img width="100%" src="https://raw.githubusercontent.com/Mrvikas06/Mrvikas06/output/github-contribution-grid-snake.svg" />
-<sub>⚙️ needs <a href="https://github.com/Platane/snk#-github-action">Platane/snk</a> Action</sub>
+<br>
+<sub>⚙️ needs <a href="https://github.com/Platane/snk#-github-action">Platane/snk</a> Action to generate</sub>
 
 </td>
 </tr>
@@ -232,21 +239,23 @@ End-to-end product builder — frontend, backend, databases, deployment.
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### `$ cat career_timeline.log`
 
 ```text
-2024 ── B.Tech CS started @ Dronacharya College of Engineering
-2025 ── 200+ LeetCode problems · deep dive into full-stack dev
-2026 ── RockShield AI · AEGIS (48h) · Hack2Skill · Commudle · Google Dev Events · AMD Events
-      ── Software Developer Intern @ Hawksvale UK
-      ── Agentic Carbon Tracker · SPARKR AI · 3D Portfolio
+2024 ── B.Tech CS started @ Dronacharya
+2025 ── 200+ LeetCode · deep dive full-stack
+2026 ── RockShield AI · AEGIS (48h)
+      ── Hack2Skill · Commudle
+      ── Google Dev Events · AMD Events
+      ── Intern @ Hawksvale UK
+      ── Carbon Tracker · SPARKR AI · 3D Portfolio
 2028 ── Expected graduation 🎓
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### `$ cat fun_facts.txt`
 
@@ -255,6 +264,8 @@ End-to-end product builder — frontend, backend, databases, deployment.
 - 🎨 Designs in a hand-drawn sketchbook aesthetic
 - 🗄️ Once ER-diagrammed an entire 11-table schema solo
 - 🌙 Peak commit hours: late night, every time
+- 🤖 AI is a working component in every build, never a gimmick
+- ⚡ Comfortable shipping across 6+ different stacks
 
 </td>
 </tr>
