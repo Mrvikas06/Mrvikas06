@@ -1,276 +1,276 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=190&text=VIKAS&fontColor=2EA44F&fontSize=70&fontAlignY=52&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20AI%20%2F%20ML%20ENGINEER&descAlignY=78&descSize=17&descAlign=50" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1B1B2F&height=260&section=header&animation=fadeIn" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2EA44F&background=0D1117&center=true&vCenter=true&width=1200&height=45&lines=root%40vikas%3A~%23+building+full-stack+products+with+AI+baked+in;root%40vikas%3A~%23+ship+fast+%C2%B7+learn+faster+%C2%B7+break+nothing+important;root%40vikas%3A~%23+200%2B+DSA+%C2%B7+Hack2Skill+%C2%B7+Commudle+%C2%B7+Hawksvale+UK" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Vikas+%F0%9F%91%8B;Full-Stack+Developer;AI+%2F+ML+Engineer;Hackathon+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+<table width="100%"><tr>
+<td width="25%" align="center"><a href="https://github.com/Mrvikas06"><img width="100%" src="https://img.shields.io/badge/GITHUB-2EA44F?style=flat-square&logo=github&logoColor=ffffff"/></a></td>
+<td width="25%" align="center"><a href="https://linkedin.com/in/vikas2106"><img width="100%" src="https://img.shields.io/badge/LINKEDIN-2EA44F?style=flat-square&logo=linkedin&logoColor=ffffff"/></a></td>
+<td width="25%" align="center"><a href="#"><img width="100%" src="https://img.shields.io/badge/PORTFOLIO-2EA44F?style=flat-square&logo=vercel&logoColor=ffffff"/></a></td>
+<td width="25%" align="center"><a href="mailto:#"><img width="100%" src="https://img.shields.io/badge/EMAIL_ME-2EA44F?style=flat-square&logo=gmail&logoColor=ffffff"/></a></td>
+</tr></table>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
 
-<br/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrvikas06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas2106)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:1B1B2F&height=3&width=100%" />
-
-</div>
-
-<br/>
-
-## 🧑‍💻 whoami
+### `$ whoami`
 
 ```bash
-vikas@dev:~$ whoami
-> B.Tech CS student · Dronacharya College of Engineering · Class of 2028
+$ whoami
+> B.Tech CS · Dronacharya College of Engineering · Class of 2028
 
-vikas@dev:~$ cat mission.txt
+$ cat mission.txt
 > Build full-stack products with AI baked in, not bolted on.
 > Ship fast. Learn faster. Break nothing important.
 
-vikas@dev:~$ ls current_focus/
-agentic-ai/   distributed-systems/   3d-web-experiences/
+$ ls ~/currently_exploring/
+agentic-ai/  distributed-systems/  3d-web-experiences/
 
-vikas@dev:~$ _
+$ echo $STATUS
+> Open to Full-Stack / AI Engineer internships & collabs
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</td>
+<td width="45%" valign="top">
 
-## 🎯 Quick Hits
+### `$ cat profile.json`
 
-<div align="center">
+| FIELD | VALUE |
+|:--|:--|
+| 🎓 Education | B.Tech CS · Dronacharya CoE · '28 |
+| 💼 Experience | Software Dev Intern @ Hawksvale UK |
+| 🏆 Hackathons | Hack2Skill · Commudle |
+| 🧩 DSA | 200+ problems solved |
+| ⚡ Signature move | Shipping full products in 48h |
+| 🌍 Based in | India |
 
-<table>
-<tr>
-<td align="center" width="20%">🎓<br><b>B.Tech CS</b><br><sub>Class of 2028</sub></td>
-<td align="center" width="20%">🏆<br><b>Hackathons</b><br><sub>SIH · Hack2Skill</sub></td>
-<td align="center" width="20%">💼<br><b>Intern</b><br><sub>Hawksvale UK</sub></td>
-<td align="center" width="20%">🧩<br><b>200+</b><br><sub>Problems solved</sub></td>
-<td align="center" width="20%">⚡<br><b>Ships fast</b><br><sub>48h builds</sub></td>
+</td>
 </tr>
 </table>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+### `$ tech --stack --all`
 
-## 🧠 Tech Arsenal
+<table width="100%">
+<tr><td width="100%">
 
-<div align="center">
+**Languages**
+<img width="100%" style="width:100%;display:block;" src="https://skillicons.dev/icons?i=py,js,ts,java,cpp&theme=dark&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,nodejs,fastapi,dotnet,mongodb,mysql,postgres,aws,gcp&theme=dark&perline=7" />
+</td></tr>
+<tr><td width="100%">
 
-</div>
+**Frontend**
+<img width="100%" style="width:100%;display:block;" src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,tailwind&theme=dark&perline=5"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</td></tr>
+<tr><td width="100%">
 
-## 🤖 AI Engineering
+**Backend & Data**
+<img width="100%" style="width:100%;display:block;" src="https://skillicons.dev/icons?i=nodejs,fastapi,dotnet,mongodb,mysql,postgres&theme=dark&perline=6"/>
 
-<img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="260">
+</td></tr>
+<tr><td width="100%">
 
-I build systems where AI is a **working component**, not a gimmick — trained models, agentic pipelines, and LLM integrations shipped inside real, deployed products.
+**Cloud, Tools & AI**
+<img width="100%" style="width:100%;display:block;" src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,figma,openai&theme=dark&perline=8"/>
 
-- 🌲 Hand-rolled a **custom Random Forest** (CART, Gini impurity, bootstrap bagging) for RockShield AI after off-the-shelf ML packages failed at scale
-- 🏟️ Integrated **LangChain + OpenAI/Gemini** into AEGIS, a GenAI stadium ops platform, in a 48-hour hackathon
+</td></tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `$ tail ai_engineering.log`
+
+I build systems where AI is a **working component**, not a gimmick — trained models, agentic pipelines, and LLM integrations shipped inside real products.
+
+- 🌲 Hand-rolled a **Random Forest from scratch** (CART, Gini impurity, bootstrap bagging) for RockShield AI after `ml-random-forest` failed at scale
+- 🏟️ Integrated **LangChain + OpenAI/Gemini APIs** into AEGIS, a GenAI stadium ops platform, in a 48h hackathon
 - 🌍 Powered an **Agentic Carbon Tracker** with the Gemini API
 - 🛡️ Shipped an **AI construction safety monitoring system** at Hawksvale UK
 - 🔌 Wired **Groq/xAI LLMs** into SPARKR AI's backend
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
 
-## 💻 Full-Stack Engineering
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260">
+### `$ tail fullstack_engineering.log`
 
 End-to-end product builder — frontend, backend, databases, deployment.
 
-| Layer | Stack |
-|---|---|
-| **Frontend** | React, Next.js (App Router), Vite, Recharts, Socket.IO |
-| **Backend** | Node.js/Express, FastAPI, .NET (RBAC) |
-| **Data** | MongoDB, MySQL, PostgreSQL |
-| **Cloud** | AWS, Google Cloud |
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🪨 RockShield AI
-Rockfall early-warning system — **Smart India Hackathon**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-Custom in-house Random Forest model, real-time monitoring via Socket.IO.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏟️ AEGIS
-GenAI stadium ops platform — **48-hour hackathon build**
-<br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-LangChain + OpenAI/Gemini, CSS-only stadium bowl visualization, built for FIFA World Cup 2026 venues.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 3D Interactive Portfolio
-Hand-drawn sketchbook aesthetic
-<br>
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-Dark sketchbook theme, immersive 3D, six featured projects including PolicyGuard AI and SPARKR AI.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Agentic Carbon Tracker
-Judged on quality, security, efficiency, a11y
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-Python/FastAPI + Streamlit, powered by the Gemini API.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ SPARKR AI
-Full documentation, production-style build
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Node.js/Express + MongoDB, integrated with Groq/xAI LLMs.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Hawksvale UK Internship
-Software Developer Intern
-<br>
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-AI construction safety monitoring, Smart Safety Helmet Android app, .NET CRM with RBAC.
+| LAYER | STACK |
+|:--|:--|
+| Frontend | React · Next.js (App Router) · Vite · Recharts · Socket.IO |
+| Backend | Node.js/Express · FastAPI · .NET (RBAC) |
+| Data | MongoDB · MySQL · PostgreSQL — designed an 11-table schema + ER diagram |
+| Cloud | AWS · Google Cloud |
+| DevOps | Git, GitHub Actions-ready deploys |
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
 
-## 🏅 Hackathons & Competitions
+### `$ ls ./projects --sort=recent`
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="16.6%" align="center" valign="top">
 
-![SIH](https://img.shields.io/badge/Smart_India_Hackathon-FF6B35?style=for-the-badge&logo=india&logoColor=white)
-![Hack2Skill](https://img.shields.io/badge/Hack2Skill-6C63FF?style=for-the-badge&logo=hackthebox&logoColor=white)
-![48h Build](https://img.shields.io/badge/48h_Hackathon-AEGIS-1B1B2F?style=for-the-badge&logo=clockify&logoColor=white)
+**🪨 RockShield AI**
+<sub>Hackathon build</sub><br><br>
+![React](https://img.shields.io/badge/-React-2EA44F?style=flat-square&logo=react&logoColor=fff)
+![Node](https://img.shields.io/badge/-Node-2EA44F?style=flat-square&logo=nodedotjs&logoColor=fff)
+<br><sub>Custom Random Forest + real-time Socket.IO monitoring</sub>
 
-</div>
+</td>
+<td width="16.6%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+**🏟️ AEGIS**
+<sub>48h hackathon</sub><br><br>
+![Next](https://img.shields.io/badge/-Next.js-2EA44F?style=flat-square&logo=nextdotjs&logoColor=fff)
+![LangChain](https://img.shields.io/badge/-LangChain-2EA44F?style=flat-square&logo=langchain&logoColor=fff)
+<br><sub>GenAI stadium ops for FIFA World Cup 2026 venues</sub>
 
-## 📊 GitHub Stats
+</td>
+<td width="16.6%" align="center" valign="top">
 
-<div align="center">
+**🎨 3D Portfolio**
+<sub>sketchbook UI</sub><br><br>
+![Three](https://img.shields.io/badge/-Three.js-2EA44F?style=flat-square&logo=threedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/-React-2EA44F?style=flat-square&logo=react&logoColor=fff)
+<br><sub>Immersive 3D, dark sketchbook theme, 6 featured projects</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mrvikas06&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrvikas06&theme=radical&hide_border=true" width="49%" />
+</td>
+<td width="16.6%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvikas06&layout=compact&theme=radical&hide_border=true" width="60%" />
+**🌍 Carbon Tracker**
+<sub>judged competition</sub><br><br>
+![Streamlit](https://img.shields.io/badge/-Streamlit-2EA44F?style=flat-square&logo=streamlit&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-2EA44F?style=flat-square&logo=python&logoColor=fff)
+<br><sub>FastAPI + Streamlit, powered by Gemini API</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrvikas06&theme=redical&hide_border=true" width="100%" />
+</td>
+<td width="16.6%" align="center" valign="top">
 
-</div>
+**⚡ SPARKR AI**
+<sub>full documentation</sub><br><br>
+![Node](https://img.shields.io/badge/-Node-2EA44F?style=flat-square&logo=nodedotjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2EA44F?style=flat-square&logo=mongodb&logoColor=fff)
+<br><sub>Groq/xAI-integrated backend, comprehensive docs</sub>
+
+</td>
+<td width="16.7%" align="center" valign="top">
+
+**🛠️ Hawksvale UK**
+<sub>internship</sub><br><br>
+![.NET](https://img.shields.io/badge/-.NET-2EA44F?style=flat-square&logo=dotnet&logoColor=fff)
+![Android](https://img.shields.io/badge/-Android-2EA44F?style=flat-square&logo=android&logoColor=fff)
+<br><sub>AI safety system, Android app, RBAC CRM</sub>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
+
+### `$ cat achievements.md`
+
+<table width="100%"><tr>
+<td width="20%" align="center"><img width="100%" src="https://img.shields.io/badge/HACK2SKILL-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=ffffff"/></td>
+<td width="20%" align="center"><img width="100%" src="https://img.shields.io/badge/COMMUDLE-2EA44F?style=for-the-badge&logo=googlechat&logoColor=ffffff"/></td>
+<td width="20%" align="center"><img width="100%" src="https://img.shields.io/badge/GOOGLE_DEVELOPER_EVENTS-2EA44F?style=for-the-badge&logo=googledevelopers&logoColor=ffffff"/></td>
+<td width="20%" align="center"><img width="100%" src="https://img.shields.io/badge/AMD_EVENTS-2EA44F?style=for-the-badge&logo=amd&logoColor=ffffff"/></td>
+<td width="20%" align="center"><img width="100%" src="https://img.shields.io/badge/200%2B_LEETCODE-2EA44F?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></td>
+</tr></table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
+
+### `$ git log --stats --graph`
+
+<table width="100%"><tr>
+<td width="33%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mrvikas06&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EA44F&icon_color=2EA44F&text_color=c9d1d9"/></td>
+<td width="33%"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrvikas06&theme=default&hide_border=true&background=0D1117&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F"/></td>
+<td width="34%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvikas06&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=2EA44F&text_color=c9d1d9"/></td>
+</tr></table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrvikas06&theme=github-compact&hide_border=true&bg_color=0D1117&color=2EA44F&line=2EA44F&point=ffffff" />
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**🏆 Trophy Case**
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mrvikas06&theme=algolia&no-frame=true&row=2&column=4&margin-w=6&margin-h=6&bg=0D1117"/>
+
+</td>
+<td width="50%" align="center">
+
+**🐍 Contribution Snake**
+<img width="100%" src="https://raw.githubusercontent.com/Mrvikas06/Mrvikas06/output/github-contribution-grid-snake.svg" />
+<sub>⚙️ needs <a href="https://github.com/Platane/snk#-github-action">Platane/snk</a> Action</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>🌐 3D Contribution Calendar (click to expand)</summary>
+<summary><b>🌐 3D contribution calendar</b> (click to expand)</summary>
 <br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mrvikas06/Mrvikas06/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
-> ⚙️ Needs a one-time GitHub Action: [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+<img width="100%" src="https://raw.githubusercontent.com/Mrvikas06/Mrvikas06/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<sub>⚙️ needs <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> Action</sub>
 </details>
 
-## 🏆 Trophies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mrvikas06&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mrvikas06/Mrvikas06/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-> ⚙️ Needs a one-time GitHub Action: [Platane/snk](https://github.com/Platane/snk#-github-action) — generates the SVG and pushes it to an `output` branch.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 💬 Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-## 📈 Timeline
-
-<div align="center">
+### `$ cat career_timeline.log`
 
 ```text
-2024 ── Started B.Tech CS @ Dronacharya College of Engineering
+2024 ── B.Tech CS started @ Dronacharya College of Engineering
 2025 ── 200+ LeetCode problems · deep dive into full-stack dev
-2026 ── RockShield AI (SIH) · AEGIS (48h hackathon) · Hack2Skill
+2026 ── RockShield AI · AEGIS (48h) · Hack2Skill · Commudle · Google Dev Events · AMD Events
       ── Software Developer Intern @ Hawksvale UK
       ── Agentic Carbon Tracker · SPARKR AI · 3D Portfolio
 2028 ── Expected graduation 🎓
 ```
 
-</div>
+</td>
+<td width="45%" valign="top">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+### `$ cat fun_facts.txt`
 
-## 🎮 Fun Facts
+- 🌲 Wrote a Random Forest from scratch — npm couldn't keep up
+- 🏟️ Shipped a full GenAI stadium platform in 48h
+- 🎨 Designs in a hand-drawn sketchbook aesthetic
+- 🗄️ Once ER-diagrammed an entire 11-table schema solo
+- 🌙 Peak commit hours: late night, every time
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-| | |
-|---|---|
-| 🌲 | Once wrote a Random Forest from scratch because the npm package couldn't keep up |
-| 🏟️ | Shipped a GenAI stadium platform in 48 hours flat |
-| 🎨 | Designs UI in a hand-drawn sketchbook aesthetic — default templates are boring |
-| ☕ | Debugging fuel of choice: chai, not coffee |
-| 🌙 | Peak commit hours: late night, obviously |
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA44F,100:0D1117&height=2" />
 
-<br/>
+### `$ contact --me`
 
-<div align="center">
+<table width="100%"><tr>
+<td width="30%" align="center"><a href="https://linkedin.com/in/vikas2106"><img width="100%" src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2EA44F?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a></td>
+<td width="30%" align="center"><a href="https://github.com/Mrvikas06"><img width="100%" src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-2EA44F?style=for-the-badge&logo=github&logoColor=ffffff"/></a></td>
+<td width="20%" align="center"><a href="#"><img width="100%" src="https://img.shields.io/badge/RESUME-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=ffffff"/></a></td>
+<td width="20%" align="center"><img width="100%" src="https://komarev.com/ghpvc/?username=Mrvikas06&label=PROFILE+VIEWS&color=2EA44F&style=for-the-badge"/></td>
+</tr></table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:1B1B2F&height=3&width=100%" />
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Vikas-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vikas2106)
-[![GitHub](https://img.shields.io/badge/-Mrvikas06-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Mrvikas06)
-
-<img src="https://komarev.com/ghpvc/?username=Mrvikas06&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,100:6C63FF&height=150&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=80" />
