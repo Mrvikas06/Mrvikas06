@@ -27,4 +27,14 @@
 <br>
 <br>
 
+<h3><code>vikas@github ~ $ ./links.sh</code></h3>
+
+<p><b>Full-Stack Developer · AI Builder · Technical Writer</b></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikas2106-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas2106)
+[![Instagram](https://img.shields.io/badge/Instagram-mr.vikas.06-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.vikas.06)
+[![Hawksvale](https://img.shields.io/badge/Intern-Hawksvale_UK-0d1117?style=for-the-badge&logo=briefcase&logoColor=white)](https://hawksvale.com)
+
+<br>
+
 </div>
