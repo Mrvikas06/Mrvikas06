@@ -29,7 +29,7 @@
 
 <h3><code>Mrvikas06@github ~ $ ./links.sh</code></h3>
 
-<p><b>Full-Stack Developer · AI Builder · Technical Writer</b></p>
+<p><b>Full-Stack Developer · AI Engineer · Software Engineer </b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikas2106-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas2106)
 [![Instagram](https://img.shields.io/badge/Instagram-mr.vikas.06-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.vikas.06)
